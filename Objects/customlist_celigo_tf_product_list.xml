@@ -1,0 +1,139 @@
+<customlist scriptid="customlist_celigo_tf_product_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Celigo Test Product List</name>
+  <customvalues>
+    <customvalue scriptid="value_1_t841073_222">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Test</value>
+    </customvalue>
+    <customvalue scriptid="value_2_t841073_222">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CeligoSDK</value>
+    </customvalue>
+    <customvalue scriptid="value_4_t841073_222">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Amazon</value>
+    </customvalue>
+    <customvalue scriptid="value_5_t841073_222">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CloudExtend</value>
+    </customvalue>
+    <customvalue scriptid="value_6_t841073_222">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>ATP</value>
+    </customvalue>
+    <customvalue scriptid="value_7_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>CloudExtend Calendar</value>
+    </customvalue>
+    <customvalue scriptid="value_8_t841073_222">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lockbox</value>
+    </customvalue>
+    <customvalue scriptid="value_9_t841073_222">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Salesforce</value>
+    </customvalue>
+    <customvalue scriptid="value_10_t841073_222">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>AmazonFba</value>
+    </customvalue>
+    <customvalue scriptid="value_11_t841073_222">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>RESTlet</value>
+    </customvalue>
+    <customvalue scriptid="value_12_t841073_222">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>License Services</value>
+    </customvalue>
+    <customvalue scriptid="value_13_t841073_222">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Magento</value>
+    </customvalue>
+    <customvalue scriptid="value_14_t841073_222">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CC Reauthorization</value>
+    </customvalue>
+    <customvalue scriptid="value_15_t841073_222">
+      <abbreviation>3</abbreviation>
+      <isinactive>F</isinactive>
+      <value>3PL</value>
+    </customvalue>
+    <customvalue scriptid="value_16_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>ShipWire</value>
+    </customvalue>
+    <customvalue scriptid="value_17_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Silverpop</value>
+    </customvalue>
+    <customvalue scriptid="value_19_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>LeanLogistics</value>
+    </customvalue>
+    <customvalue scriptid="value_20_t841073_222">
+      <abbreviation>e</abbreviation>
+      <isinactive>F</isinactive>
+      <value>eBay</value>
+    </customvalue>
+    <customvalue scriptid="value_21_t841073_222">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>NewEgg</value>
+    </customvalue>
+    <customvalue scriptid="value_22_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Sears</value>
+    </customvalue>
+    <customvalue scriptid="value_23_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Rakuten</value>
+    </customvalue>
+    <customvalue scriptid="value_24_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Google Shopping</value>
+    </customvalue>
+    <customvalue scriptid="value_25_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Nextag</value>
+    </customvalue>
+    <customvalue scriptid="value_26_t841073_222">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Integrator.io</value>
+    </customvalue>
+    <customvalue scriptid="value_27_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Magento 2</value>
+    </customvalue>
+    <customvalue scriptid="value_28_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>NS Connector Utils</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_celigo_tf_bundletriggerlist">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Celigo Test Bundle Trigger</name>
+  <customvalues>
+    <customvalue scriptid="value_1_t841073_222">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>beforeInstall</value>
+    </customvalue>
+    <customvalue scriptid="value_2_t841073_222">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>beforeUpdate</value>
+    </customvalue>
+    <customvalue scriptid="value_3_t841073_222">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>afterInstall</value>
+    </customvalue>
+    <customvalue scriptid="value_4_t841073_222">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>afterUpdate</value>
+    </customvalue>
+    <customvalue scriptid="value_5_t841073_222">
+      <abbreviation>b</abbreviation>
+      <isinactive>F</isinactive>
+      <value>beforeUninstall</value>
+    </customvalue>
+  </customvalues>
+</customlist>

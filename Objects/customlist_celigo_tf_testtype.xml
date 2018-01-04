@@ -1,0 +1,39 @@
+<customlist scriptid="customlist_celigo_tf_testtype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Celigo Test Type</name>
+  <customvalues>
+    <customvalue scriptid="value_1_t841073_222">
+      <abbreviation>U</abbreviation>
+      <isinactive>F</isinactive>
+      <value>unit</value>
+    </customvalue>
+    <customvalue scriptid="value_2_t841073_222">
+      <abbreviation>u</abbreviation>
+      <isinactive>F</isinactive>
+      <value>userevent</value>
+    </customvalue>
+    <customvalue scriptid="value_3_t841073_222">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>suitelet</value>
+    </customvalue>
+    <customvalue scriptid="value_4_t841073_222">
+      <abbreviation>s</abbreviation>
+      <isinactive>F</isinactive>
+      <value>scheduled</value>
+    </customvalue>
+    <customvalue scriptid="value_5_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>test2</value>
+    </customvalue>
+    <customvalue scriptid="value_6_t841073_222">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>batch</value>
+    </customvalue>
+  </customvalues>
+</customlist>

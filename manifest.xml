@@ -1,0 +1,17 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>mazhar sdf test</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="false">MATRIXITEMS</feature>
+    </features>
+    <objects>
+      <object>customrecord_celigo_tf_result.custrecord_celigo_tf_result_test</object>
+      <object>customrecord_celigo_tf_lib.custrecord_celigo_tf_lib_test</object>
+    </objects>
+  </dependencies>
+</manifest>
